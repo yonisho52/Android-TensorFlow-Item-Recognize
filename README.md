@@ -4,6 +4,7 @@
 - Create an app that recognize the object inside the image.
 - Select the image from the phone library's images.
 - Identify Using 'TensorFlow' library.
+- Show the 3 higest probabilities. 
 
 
 # Results:
